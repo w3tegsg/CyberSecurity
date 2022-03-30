@@ -1,17 +1,13 @@
-# CyberSecurity
-Um pouco dos comandos utilizados no curso de Ethical Hacker.
+# CyberSecurity <br>
 
+Sejam todos bem-vindos!!! <br>
 
-Sejam todos bem-vindos!!!
+<br>
 
-Nesse repositório irei colocar alguns comandos aprendidos no curso de ethical hacker, e além disso, pode ser que tenha projetos da pós em Cybersecurity.
+Nesse repositório irei colocar alguns comandos aprendidos no curso de ethical hacker, e além disso, irei postar também projetos ou similares do curso de pós-graduação em Cybersecurity.
+<br>
+<br>
 
-
- ### Repositório em construção! ### 
-
-
-
-Agradeço a todos!
-
-Cordialmente,
-João Victor
+Agradeço a todos!<br>
+Cordialmente, <br>
+João Victor <br>
